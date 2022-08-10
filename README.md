@@ -1,4 +1,4 @@
-# [PROJECT NAME]
+# [testrepo based on Template]
 
 ## Project organization
 - PG = project-generated
